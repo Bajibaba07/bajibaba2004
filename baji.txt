@@ -1,3 +1,4 @@
 CREATE TABLE students ( student_id INT PRIMARY KEY, first_name VARCHAR(50), last_name VARCHAR(50), department_id INT, date_of_birth DATE, enrollment_year INT
 );
 cfWFAW
+baji loves
